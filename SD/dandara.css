@@ -1,0 +1,18 @@
+h3 {
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+img{
+   height: 100px;
+   width: 200px;
+}
+footer{
+   background-color: brown;
+   height: 50px;
+   width: 2000px;
+}
+h3{
+   counter-reset: none;
+}
+body {
+   background-color: antiquewhite;
+} 
