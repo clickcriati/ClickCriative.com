@@ -1,0 +1,20 @@
+object{
+    width: 2000px;
+    height: 2500px;
+}
+li{
+    padding: 0 20px;
+}
+ul{
+    display: flex;
+    flex-direction: row;
+}
+ul{
+    list-style: none;
+}
+button{
+    margin: 15px;
+}
+html{
+    background-color: #ff82b6;
+}
